@@ -1,0 +1,6 @@
+C:\Users\RIDA\source\repos\LineModeler\LineModeler\bin\Debug\LineModeler.dll
+C:\Users\RIDA\source\repos\LineModeler\LineModeler\bin\Debug\LineModeler.pdb
+C:\Users\RIDA\source\repos\LineModeler\LineModeler\obj\Debug\LineModeler.csproj.AssemblyReference.cache
+C:\Users\RIDA\source\repos\LineModeler\LineModeler\obj\Debug\LineModeler.csproj.CoreCompileInputs.cache
+C:\Users\RIDA\source\repos\LineModeler\LineModeler\obj\Debug\LineModeler.dll
+C:\Users\RIDA\source\repos\LineModeler\LineModeler\obj\Debug\LineModeler.pdb

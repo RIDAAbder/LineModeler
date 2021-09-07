@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text> LineModeler</Text>
+    <Description>Some description for LineModeler</Description>
+    <Assembly>LineModeler.dll</Assembly>
+    <FullClassName>LineModeler.Command</FullClassName>
+    <ClientId>8930c086-05c7-489a-be40-2cd9fdda1e40</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
